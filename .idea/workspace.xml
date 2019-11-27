@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f3223af-3e2e-4708-8c2e-07e9cd49e031" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UCmxUlg4iAc8YXROI5pRpzEedl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="BowlingGame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BowlingGameTest.testOneSpare">
+    <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingGameTest.testAllOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="METHOD_NAME" value="testAllOnes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingGameTest.testGutterGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="METHOD_NAME" value="testGutterGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingGameTest.testOneSpare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="METHOD_NAME" value="testOneSpare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BowlingGameTest.testOneSpare" />
+        <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
+        <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
+        <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+        <item itemvalue="JUnit.BowlingGameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3223af-3e2e-4708-8c2e-07e9cd49e031" name="Default Changelist" comment="" />
+      <created>1574869197800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574869197800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="59" width="847" height="684" key="#Project_Structure" timestamp="1574869301527">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="310" y="59" width="847" height="684" key="#Project_Structure/64.27.1302.741@64.27.1302.741" timestamp="1574869301527" />
+    <state width="1256" height="172" key="GridCell.Tab.0.bottom" timestamp="1574875432312">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state width="1256" height="172" key="GridCell.Tab.0.bottom/64.27.1302.741@64.27.1302.741" timestamp="1574875432312" />
+    <state width="1256" height="172" key="GridCell.Tab.0.center" timestamp="1574875432311">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state width="1256" height="172" key="GridCell.Tab.0.center/64.27.1302.741@64.27.1302.741" timestamp="1574875432311" />
+    <state width="1256" height="172" key="GridCell.Tab.0.left" timestamp="1574875432311">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state width="1256" height="172" key="GridCell.Tab.0.left/64.27.1302.741@64.27.1302.741" timestamp="1574875432311" />
+    <state width="1256" height="172" key="GridCell.Tab.0.right" timestamp="1574875432312">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state width="1256" height="172" key="GridCell.Tab.0.right/64.27.1302.741@64.27.1302.741" timestamp="1574875432312" />
+    <state x="204" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1574869293269">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="204" y="31" width="1022" height="737" key="SettingsEditor/64.27.1302.741@64.27.1302.741" timestamp="1574869293269" />
+    <state x="448" y="152" width="524" height="498" key="extract.method.dialog" timestamp="1574875101209">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="448" y="152" width="524" height="498" key="extract.method.dialog/64.27.1302.741@64.27.1302.741" timestamp="1574875101209" />
+    <state x="280" y="99" width="869" height="596" key="find.popup" timestamp="1574873586246">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="280" y="99" width="869" height="596" key="find.popup/64.27.1302.741@64.27.1302.741" timestamp="1574873586246" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1574869272239">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/64.27.1302.741@64.27.1302.741" timestamp="1574869272239" />
+  </component>
+</project>
